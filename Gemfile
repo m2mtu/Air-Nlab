@@ -17,7 +17,7 @@ gem 'sass-rails', '>= 3.2'
 gem 'devise'
 
 gem 'toastr-rails'
-
+gem 'uglifier'
 gem 'omniauth'
 gem 'omniauth-facebook'
 
