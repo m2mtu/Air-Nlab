@@ -20,7 +20,6 @@ gem 'toastr-rails'
 gem 'uglifier'
 gem 'omniauth'
 gem 'toastr-rails'
-gem 'omniauth'
 gem 'omniauth-facebook'
 
 gem 'paperclip'
